@@ -1,3 +1,2 @@
 # testejornada
-testejornada para exemplificar
-alteração para mostrar o commit
+Código de IA de teste feito para o curso "Jornada IA" da EBAC
